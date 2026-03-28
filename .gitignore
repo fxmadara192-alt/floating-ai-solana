@@ -1,0 +1,15 @@
+# Android Studio
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+.DS_Store
+
+# Kotlin specific
+*.kotlin_metadata
+
+# Other files
+*.log
+*.apk
+*.ap_
